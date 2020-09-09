@@ -47,8 +47,6 @@
 
 5. [Data Analysis(Grad CAM 이용)](https://github.com/JeongGyuJun/Cats-vs-Dogs-Data-grad-cam)
 
-6. [Image Convert(Pixel Update, Noise, Formatting)](https://github.com/JeongGyuJun/image_convert)
+6. [Data Grad CAM](https://github.com/JeongGyuJun/Dogs_vs_Cats/tree/master/data_analysis/data_grad_cam)
 
-7. [Data Grad CAM](https://github.com/JeongGyuJun/Dogs_vs_Cats/tree/master/data_analysis/data_grad_cam)
-
-8. [Image Convert](https://github.com/JeongGyuJun/Dogs_vs_Cats/tree/master/data_analysis/image_convert)
+7. [Image Convert(Pixel Update, Noise, Formatting)](https://github.com/JeongGyuJun/Dogs_vs_Cats/tree/master/data_analysis/image_convert)
