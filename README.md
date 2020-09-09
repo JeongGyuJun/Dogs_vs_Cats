@@ -45,8 +45,6 @@
 
 4. [EfficientNet(Optimizer - SGD, Adam)](https://github.com/JeongGyuJun/classification_efficientnet/blob/master/README.md)
 
-5. [Data Analysis(Grad CAM 이용)](https://github.com/JeongGyuJun/Cats-vs-Dogs-Data-grad-cam)
+5. [Data Analysis(Grad CAM 이용)](https://github.com/JeongGyuJun/Dogs_vs_Cats/tree/master/data_analysis/data_grad_cam)
 
-6. [Data Grad CAM](https://github.com/JeongGyuJun/Dogs_vs_Cats/tree/master/data_analysis/data_grad_cam)
-
-7. [Image Convert(Pixel Update, Noise, Formatting)](https://github.com/JeongGyuJun/Dogs_vs_Cats/tree/master/data_analysis/image_convert)
+6. [Image Convert(Pixel Update, Noise, Formatting)](https://github.com/JeongGyuJun/Dogs_vs_Cats/tree/master/data_analysis/image_convert)
